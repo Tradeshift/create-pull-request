@@ -1,0 +1,9 @@
+{
+  "checks": ["build"],
+  "maintainers": [
+    "Developer productivity"
+  ],
+  "topics": [
+      "github-action"
+  ]
+}
