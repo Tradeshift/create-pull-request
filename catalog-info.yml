@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: create-pull-request
+  description: |
+    A GitHub action to create a pull request for changes to your repository in the actions workspace
+  annotations:
+    github.com/project-slug: Tradeshift/create-pull-request
+  tags:
+    - nodejs
+    - github-action
+spec:
+  type: other
+  lifecycle: production
+  owner: developer-productivity
