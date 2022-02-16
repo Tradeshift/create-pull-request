@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: create-pull-request
+  annotations:
+    github.com/project-slug: Tradeshift/create-pull-request
+spec:
+  type: other
+  lifecycle: unknown
+  owner: developer-productivity
