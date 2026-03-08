@@ -5,7 +5,7 @@
   "description": "Creates a pull request for changes to your repository in the actions workspace",
   "main": "lib/main.js",
   "engines": {
-    "node": ">=24.4.0"
+    "node": ">=24.12.0"
   },
   "scripts": {
     "build": "tsc && ncc build",
