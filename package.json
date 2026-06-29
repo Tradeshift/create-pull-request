@@ -61,6 +61,6 @@
     "prettier": "^3.8.4",
     "ts-jest": "^29.4.11",
     "typescript": "^5.9.3",
-    "undici": "^6.27.0"
+    "undici": "^8.5.0"
   }
 }
