@@ -58,7 +58,7 @@
     "jest": "^30.5.0",
     "jest-environment-jsdom": "^30.5.0",
     "js-yaml": "^5.4.1",
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.8",
     "ts-jest": "^29.4.12",
     "typescript": "^5.9.3",
     "undici": "^6.28.0"
